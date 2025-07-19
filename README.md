@@ -10,7 +10,7 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 ## what i'm up to right now
 
 - diving deep into javascript and dom manipulation  
-- solving dsa problems daily (almost always... 😅)  
+- solving dsa problems daily (almost always...)  
 - building small browser-based projects for fun  
 - working through my btech in computer science  
 - exploring linux, open source and development workflows  
