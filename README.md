@@ -25,4 +25,9 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 
 ---
 
+## stats
+<!--START_SECTION:metrics-->
+<!-- this section will be replaced by metrics -->
+<!--END_SECTION:metrics-->
+
 
