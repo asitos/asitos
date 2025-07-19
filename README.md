@@ -23,10 +23,5 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 - [rockPaperScissors](https://grihub.com/asitos/rockPaperScissors) - browser based rock paper scissors game
 - more tiny web toys & experiments coming soon  
 
----
-
-## metrics
-![Metrics](https://github.com/asitos/asitos/blob/main/github-metrics.svg)
-
 
 
