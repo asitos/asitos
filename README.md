@@ -23,5 +23,10 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 - [rockPaperScissors](https://grihub.com/asitos/rockPaperScissors) - browser based rock paper scissors game
 - more tiny web toys & experiments coming soon  
 
-
-
+## now listening to
+<a href="https://asitos.pythonanywhere.com/link">
+  <img
+    src="https://asitos.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
