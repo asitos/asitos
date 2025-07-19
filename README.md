@@ -25,4 +25,8 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 
 ---
 
+## metrics
+![Metrics](https://github.com/asitos/asitos/blob/main/github-metrics.svg)
+
+
 
