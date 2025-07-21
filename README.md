@@ -21,12 +21,6 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 
 - [etch-a-sketch](https://github.com/asitos/etch-a-sketch) – a simple digital sketch board built with js, css and html  
 - [rockPaperScissors](https://grihub.com/asitos/rockPaperScissors) - browser based rock paper scissors game
+- [calculator](https://asitos.github.io/calculator/) - visual calculator with keyboard support
 - more tiny web toys & experiments coming soon  
 
-## now listening to
-<a href="https://asitos.pythonanywhere.com/link">
-  <img
-    src="https://asitos.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
