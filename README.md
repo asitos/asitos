@@ -22,6 +22,7 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 - [etch-a-sketch](https://github.com/asitos/etch-a-sketch) – a simple digital sketch board built with js, css and html  
 - [rockPaperScissors](https://grihub.com/asitos/rockPaperScissors) - browser based rock paper scissors game
 - [calculator](https://asitos.github.io/calculator/) - visual calculator with keyboard support
+- [sign-up-form](https://asitos.github.io/sign-up-form/) - minimal sign up form ui
 - more tiny web toys & experiments coming soon  
 
 
