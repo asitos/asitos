@@ -10,7 +10,7 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 ## what i'm up to right now
 
 - diving deep into javascript and dom manipulation  
-- solving dsa problems daily (almost always... 😅)  
+- solving dsa problems daily (almost always...)  
 - building small browser-based projects for fun  
 - working through my btech in computer science  
 - exploring linux, open source and development workflows  
@@ -21,13 +21,7 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 
 - [etch-a-sketch](https://github.com/asitos/etch-a-sketch) – a simple digital sketch board built with js, css and html  
 - [rockPaperScissors](https://grihub.com/asitos/rockPaperScissors) - browser based rock paper scissors game
+- [calculator](https://asitos.github.io/calculator/) - visual calculator with keyboard support
 - more tiny web toys & experiments coming soon  
-
----
-
-## stats
-<!--START_SECTION:metrics-->
-<!-- this section will be replaced by metrics -->
-<!--END_SECTION:metrics-->
 
 
