@@ -3,7 +3,7 @@
 i'm a curious learner who loves building things from scratch.  
 currently learning full-stack web development through [the odin project](https://www.theodinproject.com/), and having a lot of fun along the way.  
 
-i’m really into problem-solving, front-end design, and clean code — slowly figuring things out, one line at a time.
+i’m really into problem-solving, front-end design, and clean code, slowly figuring things out, one line at a time.
 
 ---
 
@@ -23,6 +23,8 @@ i’m really into problem-solving, front-end design, and clean code — slowly f
 - [rockPaperScissors](https://grihub.com/asitos/rockPaperScissors) - browser based rock paper scissors game
 - [calculator](https://asitos.github.io/calculator/) - visual calculator with keyboard support
 - [sign-up-form](https://asitos.github.io/sign-up-form/) - minimal sign up form ui
-- more tiny web toys & experiments coming soon  
+- [admin-dashboard](https://asitos.github.io/admin-dashboard/) - a mockup admin dashboard page
+- [LIBRARBY](https://asitos.github.io/library/) - undertale inspired library web app
+
 
 
