@@ -1,30 +1,35 @@
-## hey, i'm ashutosh
+### hey, i'm ashutosh
+cs undergrad | systems & security | linux 
 
-i'm a curious learner who loves building things from scratch.  
-currently learning full-stack web development through [the odin project](https://www.theodinproject.com/), and having a lot of fun along the way.  
+i'm a computer science student making the transition from web development to low-level computing. i spend most of my time figuring out operating systems, writing c++ and bash, and exploring linux security. 
 
-i’m really into problem-solving, front-end design, and clean code, slowly figuring things out, one line at a time.
+**tech stack:**
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+  <img src="https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=black" alt="c" />
+  <img src="https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/bash-4eaa25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
+  <img src="https://img.shields.io/badge/arch_linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux" />
+  <img src="https://img.shields.io/badge/linux_kernel-fcc624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+</p>
 
 ---
 
-## what i'm up to right now
+### recent work
 
-- diving deep into javascript and dom manipulation  
-- solving dsa problems daily (almost always...)  
-- building small browser-based projects for fun  
-- working through my btech in computer science  
-- exploring linux, open source and development workflows  
+- **linux from scratch:** built a custom linux operating system entirely from source code, configuring the core toolchain and kernel.
+- **web archives:** earlier frontend projects including: 
+    - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
+    - [calculator](https://github.com/asitos/calculator/)
+    - [librarby](https://github.com/asitos/librarby)
 
 ---
 
-## my recent work
+### stats
 
-- [etch-a-sketch](https://github.com/asitos/etch-a-sketch) – a simple digital sketch board built with js, css and html  
-- [rockPaperScissors](https://grihub.com/asitos/rockPaperScissors) - browser based rock paper scissors game
-- [calculator](https://asitos.github.io/calculator/) - visual calculator with keyboard support
-- [sign-up-form](https://asitos.github.io/sign-up-form/) - minimal sign up form ui
-- [admin-dashboard](https://asitos.github.io/admin-dashboard/) - a mockup admin dashboard page
-- [LIBRARBY](https://asitos.github.io/library/) - undertale inspired library web app
-
-
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asitos&show_icons=false&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="github stats" />
+</div>
