@@ -24,7 +24,9 @@ i'm a computer science student making the transition from web development to low
 - **web archives:** earlier frontend projects including: 
     - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
     - [calculator](https://github.com/asitos/calculator/)
-    - [librarby](https://github.com/asitos/librarby)
+    - [librarby](https://github.com/asitos/library)
+
+- **arch hyprland dotfiles:** [dotfiles](https://github.com/asitos/dotfiles)
 
 
 
