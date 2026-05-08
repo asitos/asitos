@@ -48,4 +48,5 @@ i'm a computer science student making the transition from web development to low
 - **arch hyprland dotfiles:** [dotfiles](https://github.com/asitos/dotfiles)
 
 
-
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
