@@ -1,4 +1,4 @@
-### hey, i'm ashutosh
+## hey, i'm ashutosh
 cs undergrad | systems & security | linux 
 
 i'm a computer science student making the transition from web development to low-level computing. i spend most of my time figuring out operating systems, writing c++ and bash, and exploring linux security. 
@@ -18,18 +18,13 @@ i'm a computer science student making the transition from web development to low
 
 ---
 
-### recent work
+## recent work
 
-- **linux from scratch - secure:** building a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here] (https://github.com/asitos/lfs-secure)
+- **linux from scratch - secure:** building a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here](https://github.com/asitos/lfs-secure)
 - **web archives:** earlier frontend projects including: 
     - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
     - [calculator](https://github.com/asitos/calculator/)
     - [librarby](https://github.com/asitos/librarby)
 
----
 
-### stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asitos&show_icons=false&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="github stats" />
-</div>
