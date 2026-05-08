@@ -1,7 +1,9 @@
 ## hey, i'm ashutosh
 cs undergrad | systems & security | linux 
 
-i'm a computer science student making the transition from web development to low-level computing. i spend most of my time figuring out operating systems, writing c++ and bash, and exploring linux security. 
+i'm a computer science student making the transition from web development to low-level computing. i spend most of my time figuring out operating systems, writing c++ and bash, and exploring system security. 
+
+when i'm not staring at a terminal, i'm probably hitting the gym, practicing guitar, playing games, or trying to fix something i broke in linux ;-;
 
 ### tech stack
 
@@ -33,6 +35,7 @@ i'm a computer science student making the transition from web development to low
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   <img src="https://img.shields.io/badge/blender-f5792a?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
+  <img src="https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
 </p>
 
 ---
