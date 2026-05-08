@@ -20,7 +20,7 @@ i'm a computer science student making the transition from web development to low
 
 ### recent work
 
-- **linux from scratch:** built a custom linux operating system entirely from source code, configuring the core toolchain and kernel.
+- **linux from scratch - secure:** building a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here] (https://github.com/asitos/lfs-secure)
 - **web archives:** earlier frontend projects including: 
     - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
     - [calculator](https://github.com/asitos/calculator/)
