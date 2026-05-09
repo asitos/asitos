@@ -24,6 +24,7 @@ jobs:
           plugin_music_limit: 1
           plugin_music_time_range: short    # only fetch recent tracks
           config_timezone: Asia/Kolkata
+          
 name: Update stats.fm Top Albums
 
 on:
