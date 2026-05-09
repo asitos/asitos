@@ -53,3 +53,7 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/asitos?theme=catppuccinMocha&font=VT323)
+
+## last.fm
+<!-- STATSFM START -->
+<!-- STATSFM END -->
