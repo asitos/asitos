@@ -51,15 +51,17 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 - **arch hyprland dotfiles:** [dotfiles](https://github.com/asitos/dotfiles)
 
 
-## Leetcode Stats
 <div align="center">
   <h2>Leetcode Stats</h2>
   <img src="https://leetcard.jacoblin.cool/asitos?theme=catppuccinMocha&font=VT323" alt="LeetCode Stats" />
 
   <br />
   <br />
-
+  <h2>listening to</h2>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=sbtv9xqyc859dkq9j0b9apx1r&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sbtv9xqyc859dkq9j0b9apx1r&cover_image=true&theme=spotify-embed&show_offline=true&background_color=241f31&interchange=false&profanity=false&mode=dark&bar_color=813d9c&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+  <br />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=sbtv9xqyc859dkq9j0b9apx1r&count=10)" alt="spotify-last-played" />
   </a>
 </div>
