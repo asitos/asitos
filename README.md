@@ -52,4 +52,4 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 
 
 ## Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/asitos)
+![Leetcode Stats](https://leetcard.jacoblin.cool/asitos?theme=transparent,font=Google+Sans+Code)
