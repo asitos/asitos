@@ -45,8 +45,9 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 - **linux from scratch - secure:** building a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here](https://github.com/asitos/lfs-secure)
 - **web archives:** earlier frontend projects including: 
     - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
-    - [calculator](https://github.com/asitos/calculator/)
+    - [tic-tac-toe](https://github.com/asitos/tictactoe)
     - [librarby](https://github.com/asitos/library)
+    - [calculator](https://github.com/asitos/calculator/)
 
 - **arch hyprland dotfiles:** [dotfiles](https://github.com/asitos/dotfiles)
 
