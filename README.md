@@ -25,7 +25,6 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 <img src="https://img.shields.io/badge/gentoo-54487a?style=for-the-badge&logo=gentoo&logoColor=white" alt="gentoo" />
   <img src="https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white" alt="debian" />
   <img src="https://img.shields.io/badge/raspberry_pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="raspberry pi" />
-  <img src="https://img.shields.io/badge/cybersecurity-000000?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="cybersecurity" />
   <img src="https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/nmap-003366?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" />
   <img src="https://img.shields.io/badge/linux_kernel-fcc624?style=for-the-badge&logo=linux&logoColor=black" alt="linux kernel" />
@@ -46,14 +45,22 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 
 ## recent work
 
-- **linux from scratch - secure:** building a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here](https://github.com/asitos/lfs-secure)
+- **linux from scratch - secure:** built a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here](https://github.com/asitos/lfs-secure), currently hardening the system.
+
+- **Headless ARM Infrastructure:** Configured and hardened a headless Raspberry Pi (Debian Trixie) as a remote development and security sandbox, utilizing SSH, UFW, and automated system monitoring, repo upload soon
+
 - **web archives:** earlier frontend projects including: 
     - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
     - [tic-tac-toe](https://github.com/asitos/tictactoe)
     - [librarby](https://github.com/asitos/library)
     - [calculator](https://github.com/asitos/calculator/)
 
-- **arch hyprland dotfiles:** [dotfiles](https://github.com/asitos/dotfiles)
+- **python projects** mini projects made during high school
+    - [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms)
+    - [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
+
+- **arch hyprland dotfiles:** 
+    - [dotfiles](https://github.com/asitos/dotfiles)
 
 <div align="center">
   <h2>Leetcode Stats</h2>
