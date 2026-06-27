@@ -26,7 +26,6 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
   <img src="https://img.shields.io/badge/debian-a81d33?style=for-the-badge&logo=debian&logoColor=white" alt="debian" />
   <img src="https://img.shields.io/badge/raspberry_pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="raspberry pi" />
   <img src="https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/nmap-003366?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" />
   <img src="https://img.shields.io/badge/linux_kernel-fcc624?style=for-the-badge&logo=linux&logoColor=black" alt="linux kernel" />
   <img src="https://img.shields.io/badge/google_cloud-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud" />
 </p>
