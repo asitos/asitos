@@ -19,6 +19,14 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
   <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </p>
 
+**frameworks & libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" />
+  <img src="https://img.shields.io/badge/MediaPipe-00BCB4?style=for-the-badge&logo=mediapipe&logoColor=white" alt="mediapipe" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776ab?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+</p>
+
 **systems & infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/arch_linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux" />
