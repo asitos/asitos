@@ -54,9 +54,12 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
     - [librarby](https://github.com/asitos/library)
     - [calculator](https://github.com/asitos/calculator/)
 
-- **python projects** mini projects made during high school
-    - [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms)
-    - [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
+- **python projects:** 
+    - silly opencv projects:
+        - [handSkeleton](https://github.com/asitos/handSkeleton)
+    - mini projects made during high school:
+        - [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms)
+        - [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
 
 - **arch hyprland dotfiles:** 
     - [dotfiles](https://github.com/asitos/dotfiles)
