@@ -64,7 +64,8 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 
 - **linux from scratch - secure:** built a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here](https://github.com/asitos/lfs-secure), currently hardening the system.
 
-- **Headless ARM Infrastructure:** Configured and hardened a headless Raspberry Pi (Debian Trixie) as a remote development and security sandbox, utilizing SSH, UFW, and automated system monitoring, repo upload soon
+- **Headless ARM Infrastructure:** Configured and hardened a headless Raspberry Pi (Debian Trixie) as a remote development and security sandbox, utilizing SSH, UFW, and automated system monitoring, the [repo](https://github.com/asitos/rasmalaaiPi)is currently under work since i broke the rpi's sd card ;-;
+
 
 - **web archives:** earlier frontend projects including: 
     - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
@@ -81,6 +82,9 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 
 - **arch hyprland dotfiles:** 
     - [dotfiles](https://github.com/asitos/dotfiles)
+
+- **dsa progress:** 
+    - [corporateMajdoori](https://github.com/asitos/corporateMajdoori)
 
 <div align="center">
   <h2>Leetcode Stats</h2>
