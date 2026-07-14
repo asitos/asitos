@@ -87,7 +87,7 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
     - [corporateMajdoori](https://github.com/asitos/corporateMajdoori)
 
 <div align="center">
-  <h2>Leetcode Stats</h2>
+  <h2>leetcode stats</h2>
   <img src="https://leetcard.jacoblin.cool/asitos?theme=catppuccinMocha&font=VT323" alt="LeetCode Stats" />
 
   <br />
