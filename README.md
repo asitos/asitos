@@ -62,7 +62,7 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 
 ## recent work
 
-- **linux from scratch - secure:** built a custom linux operating system entirely from source code, configuring the core toolchain and kernel. progress is logged [here](https://github.com/asitos/lfs-secure), currently hardening the system.
+- **linux from scratch - secure:** built a custom linux operating system entirely from source code, configuring the core toolchain and kernel. successfully completed the foundational build and achieved the project's target security hardening scope, reaching a Lynis audit score of 90. full build logs and configurations are available [here](https://github.com/asitos/lfs-secure).
 
 - **Headless ARM Infrastructure:** Configured and hardened a headless Raspberry Pi (Debian Trixie) as a remote development and security sandbox, utilizing SSH, UFW, and automated system monitoring, the [repo](https://github.com/asitos/rasmalaaiPi) is currently under work since i broke the rpi's sd card ;-;
 
