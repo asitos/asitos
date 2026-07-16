@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Location", "value": "Bhopal, India" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "title": "- Tech Stack",
+      "fields": [
+        { "key": "OS", "value": "Arch Linux, Debian Trixie" },
+        { "key": "Editor", "value": "Neovim, VSCodium" },
+        { "key": "Languages", "value": "C++, Python, JS, Bash" },
+        { "key": "Focus", "value": "Embedded Systems, Low-Level Networking" }
+      ]
+    },
+    {
+      "title": "- Hobbies",
+      "fields": [
+        { "key": "Digital", "value": "Linux From Scratch, Custom Kernels" },
+        { "key": "Analog", "value": "Gym, Guitar, Games" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Website", "value": "https://github.com/{{username}}" },
+        { "key": "LeetCode", "value": "https://leetcode.com/u/asitos" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      "loc"
+    ]
+  }
+}
