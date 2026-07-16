@@ -9,50 +9,50 @@
     {
       "title": "{{username}}@github",
       "titleColor": {
-        "text": "#d20f39, #f7768e",
+        "text": "#9854f1, #bb9af7",
         "line": "#9aa5ce, #414868"
       },
       "fields": [
         { "key": "Name", "value": "{{name}}", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Location", "value": "Bhopal, India", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Created", "value": "{{created}}", "keyColor": "#7b38d8, #c099ff", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" }
+        { "key": "Location", "value": "Bhopal, India", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Created", "value": "{{created}}", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
     {
       "title": "- Tech Stack",
       "titleColor": {
-        "text": "#9854f1, #bb9af7",
+        "text": "#d20f39, #f7768e",
         "line": "#9aa5ce, #414868"
       },
       "fields": [
-        { "key": "OS", "value": "Arch Linux, Debian Trixie", "keyColor": "#7b38d8, #c099ff", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "OS", "value": "Arch Linux, Debian Trixie", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
         { "key": "Editor", "value": "Neovim, VSCodium", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Languages", "value": "C++, Python, JS, Bash", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Focus", "value": "Systems Engineering, OS Security", "keyColor": "#7b38d8, #c099ff", "valueColor": "#343b58, #a9b1d6" }
+        { "key": "Languages", "value": "C++, Python, JS, Bash", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Focus", "value": "Systems Engineering, OS Security", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
     {
       "title": "- Hobbies",
       "titleColor": {
-        "text": "#7b38d8, #c099ff",
+        "text": "#c91a52, #f52a65",
         "line": "#9aa5ce, #414868"
       },
       "fields": [
-        { "key": "Digital", "value": "Linux From Scratch, Custom Kernels", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Analog", "value": "Gym, Guitar, Games", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" }
+        { "key": "Digital", "value": "Linux From Scratch, Custom Kernels", "keyColor": "#c91a52, #f52a65", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Analog", "value": "Gym, Guitar, Games", "keyColor": "#c91a52, #f52a65", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
     {
       "title": "- Contact",
       "titleColor": {
-        "text": "#d20f39, #f7768e",
+        "text": "#7b38d8, #c099ff",
         "line": "#9aa5ce, #414868"
       },
       "fields": [
-        { "key": "Email", "value": "4shut0shparashar@gmail.com", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Email", "value": "4shut0shparashar@gmail.com", "keyColor": "#7b38d8, #c099ff", "valueColor": "#343b58, #a9b1d6" },
         { "key": "Website", "value": "https://github.com/{{username}}", "keyColor": "#7b38d8, #c099ff", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "LeetCode", "value": "https://leetcode.com/u/asitos", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" }
+        { "key": "LeetCode", "value": "https://leetcode.com/u/asitos", "keyColor": "#7b38d8, #c099ff", "valueColor": "#343b58, #a9b1d6" }
       ]
     }
   ],
@@ -63,8 +63,8 @@
       "line": "#9aa5ce, #414868"
     },
     "rows": [
-      { "left": { "key": "Repos", "value": "{{repos}}", "keyColor": "#d20f39, #f7768e" }, "right": { "key": "Stars", "value": "{{stars}}", "keyColor": "#7b38d8, #c099ff" } },
-      { "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Forks", "value": "{{forks}}", "keyColor": "#d20f39, #f7768e" } },
+      { "left": { "key": "Repos", "value": "{{repos}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Stars", "value": "{{stars}}", "keyColor": "#9854f1, #bb9af7" } },
+      { "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Forks", "value": "{{forks}}", "keyColor": "#9854f1, #bb9af7" } },
       "loc"
     ]
   }
