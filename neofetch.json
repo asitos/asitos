@@ -2,14 +2,14 @@
   "image": "https://raw.githubusercontent.com/asitos/asitos/main/cat.png",
   "coloredImage": true,
   "removeBackground": true,
-  "imageScale": 1.0,
-  "backgroundColor": "transparent, transparent",
+  "imageScale": 2.0,
+  "backgroundColor": "#e1e2e7, #1a1b26",
   "separatorColor": "#9aa5ce, #414868",
   "sections": [
     {
       "title": "{{username}}@github",
       "titleColor": {
-        "text": "#5ef154, #f1e754",
+        "text": "#f1e754, #5ef154,",
         "line": "#9aa5ce, #414868"
       },
       "fields": [
