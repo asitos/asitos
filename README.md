@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/asitos">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-dark&v=4&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json%3Fv%3D4">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-light&v=4&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json%3Fv%3D4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-dark&v=5&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json%3Fv%3D5">
+      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-light&v=5&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json%3Fv%3D5">
     </picture>
   </a>
 </p>

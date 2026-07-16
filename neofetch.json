@@ -9,7 +9,7 @@
     {
       "title": "{{username}}@github",
       "titleColor": {
-        "text": "#9854f1, #bb9af7",
+        "text": "#5ef154, #f1e754",
         "line": "#9aa5ce, #414868"
       },
       "fields": [
@@ -46,13 +46,13 @@
     {
       "title": "- Contact",
       "titleColor": {
-        "text": "#1f51ff, #0f52ba",
+        "text": "#40e0d0, #00ffff",
         "line": "#9aa5ce, #414868"
       },
       "fields": [
-        { "key": "Email", "value": "4shut0shparashar@gmail.com", "keyColor": "#1f51ff, #0f52ba", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Website", "value": "https://github.com/{{username}}", "keyColor": "#1f51ff, #0f52ba", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "LeetCode", "value": "https://leetcode.com/u/asitos", "keyColor": "#1f51ff, #0f52ba", "valueColor": "#343b58, #a9b1d6" }
+        { "key": "Email", "value": "4shut0shparashar@gmail.com", "keyColor": "#40e0d0, #00ffff", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Website", "value": "https://github.com/{{username}}", "keyColor": "#40e0d0, #00ffff", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "LeetCode", "value": "https://leetcode.com/u/asitos", "keyColor": "#40e0d0, #00ffff", "valueColor": "#343b58, #a9b1d6" }
       ]
     }
   ],
