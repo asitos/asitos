@@ -36,27 +36,25 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 - **[rasmalaaiPiHole](https://github.com/asitos/rasmalaaiPiHole):** a containerized dns sinkhole infrastructure deployed via docker compose for network mitigation.
 
 ---
+<div align="center">
 
 | domain | technologies |
 | :--- | :--- |
 | **low-level & systems** | c++, c, bash, linux kernel, posix api |
 | **infrastructure** | arch, debian, gentoo, raspberry pi, docker, gcp |
-| **scripting & data** | python, opencv, pandas |
+| **scripting & data** | python, opencv, pandas, mysql|
 | **tools** | neovim, git, gnu make, gcc |
 
+</div>
 ---
 
 ## archives & algorithms
 
-<details>
-<summary><b>view earlier web, python, and dsa projects</b></summary>
-<br>
+my earlier web, python, and dsa projects:
 
 - **dsa & problem solving:** [corporateMajdoori](https://github.com/asitos/corporateMajdoori) (daily algorithms and data structures progress)
 - **python experiments:** [handSkeleton](https://github.com/asitos/handSkeleton) (mediapipe/opencv), [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms), [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
-- **archived frontend:** [etch-a-sketch](https://github.com/asitos/etch-a-sketch), [tic-tac-toe](https://github.com/asitos/tictactoe), [calculator](https://github.com/asitos/calculator/)
-
-</details>
+- **archived frontend:** [etch-a-sketch](https://github.com/asitos/etch-a-sketch), [tic-tac-toe](https://github.com/asitos/tictactoe), [calculator](https://github.com/asitos/calculator/), [librarby](https://github.com/asitos/library)
 
 <br>
 
