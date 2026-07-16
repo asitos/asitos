@@ -66,7 +66,7 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 - **rasmalaaiPi ecosystem**: the central index and repository hub for lightweight, terminal-only tools and embedded systems scripts running on a raspberry pi 3b+.
     - [rasmalaaiPi](https://github.com/asitos/rasmalaaiPi): master index and pipeline mapping for active board operations.
     - [rasmalaaiPiTelemetry](https://github.com/asitos/rasmalaaiPiTelemetry): a zero-dependency system metric daemon written in c++ that parses /proc and /sys internals.
-    - [rasmalaaiPiSSHSniper](https://github.com/asitos/rasmalaaiPiSSHSniper) — a zero-dependency c++ intrusion prevention system. intercepts ssh brute-force vectors in real-time by using a posix pipe , and manipulating iptables.
+    - [rasmalaaiPiSSHSniper](https://github.com/asitos/rasmalaaiPiSSHSniper) — a zero-dependency c++ intrusion prevention system. intercepts ssh brute-force vectors in real-time by using a posix pipe, and manipulating iptables.
     - [rasmalaaiPiHole](https://github.com/asitos/rasmalaaiPiHole): a containerized dns sinkhole infrastructure deployed via docker compose for localized network telemetry mitigation.
     
 - **web archives:** earlier frontend projects including: 
