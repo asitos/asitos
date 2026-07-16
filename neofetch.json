@@ -1,41 +1,67 @@
 {
+  "image": "https://raw.githubusercontent.com/asitos/asitos/main/custom-avatar.png",
+  "coloredImage": true,
+  "removeBackground": true,
+  "imageScale": 1.2,
+  "backgroundColor": "transparent, transparent",
+  "separatorColor": "#9aa5ce, #414868",
   "sections": [
     {
       "title": "{{username}}@github",
+      "titleColor": {
+        "text": "#9854f1, #bb9af7",
+        "line": "#9aa5ce, #414868"
+      },
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "Bhopal, India" },
-        { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" }
+        { "key": "Name", "value": "{{name}}", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Location", "value": "Bhopal, India", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Created", "value": "{{created}}", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
     {
       "title": "- Tech Stack",
+      "titleColor": {
+        "text": "#9854f1, #bb9af7",
+        "line": "#9aa5ce, #414868"
+      },
       "fields": [
-        { "key": "OS", "value": "Arch Linux, Debian Trixie" },
-        { "key": "Editor", "value": "Neovim, VSCodium" },
-        { "key": "Languages", "value": "C++, Python, JS, Bash" },
-        { "key": "Focus", "value": "Embedded Systems, Low-Level Networking" }
+        { "key": "OS", "value": "Arch Linux, Debian Trixie", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Editor", "value": "Neovim, VSCodium", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Languages", "value": "C++, Python, JS, Bash", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Focus", "value": "Embedded Systems, Low-Level Networking", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
     {
       "title": "- Hobbies",
+      "titleColor": {
+        "text": "#9854f1, #bb9af7",
+        "line": "#9aa5ce, #414868"
+      },
       "fields": [
-        { "key": "Digital", "value": "Linux From Scratch, Custom Kernels" },
-        { "key": "Analog", "value": "Gym, Guitar, Games" }
+        { "key": "Digital", "value": "Linux From Scratch, Custom Kernels", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Analog", "value": "Gym, Guitar, Games", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
     {
       "title": "- Contact",
+      "titleColor": {
+        "text": "#9854f1, #bb9af7",
+        "line": "#9aa5ce, #414868"
+      },
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "LeetCode", "value": "https://leetcode.com/u/asitos" }
+        { "key": "Email", "value": "4shut0shparashar@gmail.com", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Website", "value": "https://github.com/{{username}}", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "LeetCode", "value": "https://leetcode.com/u/asitos", "keyColor": "#9854f1, #bb9af7", "valueColor": "#343b58, #a9b1d6" }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
+    "titleColor": {
+      "text": "#9854f1, #bb9af7",
+      "line": "#9aa5ce, #414868"
+    },
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
