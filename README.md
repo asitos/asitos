@@ -1,5 +1,5 @@
-#![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=asitos)
-hey, i'm ashutosh
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=asitos)
+# hey, i'm ashutosh
 cs undergrad | systems & security | linux 
 
 i'm a computer science student making the transition from web development to low-level computing. i spend most of my time figuring out operating systems, writing c++ and bash, and exploring system security. 
