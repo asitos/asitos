@@ -55,7 +55,6 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   <img src="https://img.shields.io/badge/blender-f5792a?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
-  <img src="https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
 </p>
 
 ---
@@ -64,9 +63,11 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
 
 - **linux from scratch - secure:** built a custom linux operating system entirely from source code, configuring the core toolchain and kernel. successfully completed the foundational build and achieved the project's target security hardening scope, reaching a Lynis audit score of 90. full build logs and configurations are available [here](https://github.com/asitos/lfs-secure).
 
-- **Headless ARM Infrastructure:** Configured and hardened a headless Raspberry Pi (Debian Trixie) as a remote development and security sandbox, utilizing SSH, UFW, and automated system monitoring, the [repo](https://github.com/asitos/rasmalaaiPi) is currently under work since i broke the rpi's sd card ;-;
-
-
+- **rasmalaaiPi ecosystem**: the central index and repository hub for lightweight, terminal-only tools and embedded systems scripts running on a raspberry pi 3b+.
+    - [rasmalaaiPi](https://github.com/asitos/rasmalaaiPi): master index and pipeline mapping for active board operations.
+    - [rasmalaaiPiTelemetry](https://github.com/asitos/rasmalaaiPiTelemetry): a zero-dependency system metric daemon written in c++ that parses /proc and /sys internals.
+    - [rasmalaaiPiHole](https://github.com/asitos/rasmalaaiPiHole): a containerized dns sinkhole infrastructure deployed via docker compose for localized network telemetry mitigation.
+    
 - **web archives:** earlier frontend projects including: 
     - [etch-a-sketch](https://github.com/asitos/etch-a-sketch)
     - [tic-tac-toe](https://github.com/asitos/tictactoe)
