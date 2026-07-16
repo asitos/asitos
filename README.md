@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://github.com/asitos">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-dark&v=1&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json%3Fv%3D1">
+      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-light&v=1&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json%3Fv%3D1">
     </picture>
   </a>
 </p>
+
 # hey, i'm ashutosh
+
 cs undergrad | systems & security | linux 
 
 i'm a computer science student making the transition from web development to low-level computing. i spend most of my time figuring out operating systems, writing c++ and bash, and exploring system security. 
