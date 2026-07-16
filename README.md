@@ -33,6 +33,8 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 - **[rasmalaaiPiTelemetry](https://github.com/asitos/rasmalaaiPiTelemetry):** a native system metric daemon that parses raw `/proc` and `/sys` internals.
 - **[rasmalaaiPiHole](https://github.com/asitos/rasmalaaiPiHole):** a containerized dns sinkhole infrastructure deployed via docker compose for network mitigation.
 
+## technical matrix
+
 <div align="center">
 
 | domain | technologies |
