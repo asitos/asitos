@@ -1,4 +1,11 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=asitos)
+<p align="center">
+  <a href="https://github.com/asitos">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json">
+      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=asitos&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fasitos%2Fasitos%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 # hey, i'm ashutosh
 cs undergrad | systems & security | linux 
 
