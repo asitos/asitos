@@ -22,8 +22,6 @@ when i'm not staring at a terminal, i'm probably hitting the gym, practicing gui
   <a href="https://profile.hackthebox.com/profile/019ef582-7933-7225-9fda-fac039cb5422"><img src="https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"></a>
 </div>
 
----
-
 ## core systems architecture (active)
 
 **[linux from scratch - secure](https://github.com/asitos/lfs-secure)**
@@ -35,7 +33,6 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 - **[rasmalaaiPiTelemetry](https://github.com/asitos/rasmalaaiPiTelemetry):** a native system metric daemon that parses raw `/proc` and `/sys` internals.
 - **[rasmalaaiPiHole](https://github.com/asitos/rasmalaaiPiHole):** a containerized dns sinkhole infrastructure deployed via docker compose for network mitigation.
 
----
 <div align="center">
 
 | domain | technologies |
@@ -46,7 +43,7 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 | **tools** | neovim, git, gnu make, gcc |
 
 </div>
----
+
 
 ## archives & algorithms
 
