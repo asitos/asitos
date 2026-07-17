@@ -52,6 +52,13 @@ my earlier web, python, and dsa projects:
 <br>
 
 <div align="center">
+
+## recent vidya
+
+<!-- GAMES:START -->
+
+<!-- GAMES:END -->
+
   <h2>leetcode stats</h2>
   <img src="https://leetcard.jacoblin.cool/asitos?theme=catppuccinMocha&font=VT323" alt="LeetCode Stats" />
 
