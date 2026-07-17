@@ -54,9 +54,9 @@ my earlier web, python, and dsa projects:
 
 <div align="center">
 
-## recent vidya
+## recent played vidya
 <a href="https://github.com/asitos/rasmalaaiPiVidyaSync">
-  <img src="https://rasmalaai-pi-vidya-sync-2lefo28rg-jhingalalaas-projects.vercel.app/api/card" alt="telemetry: digital archives" />
+  <img src="https://rasmalaai-pi-vidya-sync-2lefo28rg-jhingalalaas-projects.vercel.app/api/card" alt="recently played vidya" />
 </a>
 
   <h2>leetcode stats</h2>
