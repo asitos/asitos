@@ -56,7 +56,14 @@ my earlier web, python, and dsa projects:
 ## recent vidya
 
 <!-- GAMES:START -->
-
+```text
+[DATE]     [TITLE]                                    [RATING]  [TIME]
+----------------------------------------------------------------------
+4/7/26     DELTARUNE (Chapter 5)                      10/10     12h
+18/6/26    The Legend of Zelda: Tears of the Kingdo   9/10      76h
+26/5/26    TUNIC                                      7.5/10    21h
+6/5/26     Cyberpunk 2077: Phantom Liberty            9.5/10    80h
+```
 <!-- GAMES:END -->
 
   <h2>leetcode stats</h2>
