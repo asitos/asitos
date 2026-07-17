@@ -50,19 +50,16 @@ my earlier web, python, and dsa projects:
 - **python experiments:** [handSkeleton](https://github.com/asitos/handSkeleton) (mediapipe/opencv), [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms), [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
 - **archived frontend:** [etch-a-sketch](https://github.com/asitos/etch-a-sketch), [tic-tac-toe](https://github.com/asitos/tictactoe), [calculator](https://github.com/asitos/calculator/), [librarby](https://github.com/asitos/library)
 
-<br>
+---
 
 <div align="center">
 
-## recent played vidya
 <a href="https://github.com/asitos/rasmalaaiPiVidyaSync">
   <img src="https://rasmalaai-pi-vidya-sync.vercel.app/api/card?v=1" alt="recently played vidya" />
 </a>
 
   <h2>leetcode stats</h2>
   <img src="https://leetcard.jacoblin.cool/asitos?theme=catppuccinMocha&font=VT323" alt="LeetCode Stats" />
-
-  <br />
 
   <h2>listening to</h2>
 
