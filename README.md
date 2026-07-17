@@ -7,14 +7,6 @@
   </a>
 </p>
 
-# hey, i'm ashutosh
-
-cs undergrad | systems & security | linux 
-
-i'm a computer science student making the transition from web development to low-level computing. i spend most of my time figuring out operating systems, writing c++ and bash, and exploring system security. 
-
-when i'm not staring at a terminal, i'm probably hitting the gym, practicing guitar, playing games, or trying to fix something i broke in linux ;-;
-
 <div align="center">
   <a href="https://www.linkedin.com/in/asitos"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:4shut0shparashar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
