@@ -23,7 +23,7 @@ built a custom linux operating system entirely from source code, compiling the c
 
 **[rasmalaaiPi ecosystem](https://github.com/asitos/rasmalaaiPi)** 
 the central index for lightweight, zero-dependency c++ tools and embedded systems daemons running on a raspberry pi 3b+.
-- **[rasmalaaiPiVidyaSync](https://github.com/asitos/rasmalaaiPiVidyaSync):** native system telemetry daemon which fetches recently played video games data from google sheets, briged via github api, automated by a systemd timer.
+- **[rasmalaaiPiVidyaSync](https://github.com/asitos/rasmalaaiPiVidyaSync):** serverless edge rendering pipeline and native linux daemon that syncs my google sheets game logs directly to my github readme, built with python, systemd, next.js, and vercel satori.
 - **[rasmalaaiPiSSHSniper](https://github.com/asitos/rasmalaaiPiSSHSniper):** an intrusion prevention system (ips). intercepts ssh brute-force vectors in real-time using posix pipes and manipulates kernel iptables dynamically.
 - **[rasmalaaiPiTelemetry](https://github.com/asitos/rasmalaaiPiTelemetry):** a native system metric daemon that parses raw `/proc` and `/sys` internals.
 - **[rasmalaaiPiHole](https://github.com/asitos/rasmalaaiPiHole):** a containerized dns sinkhole infrastructure deployed via docker compose for network mitigation.
