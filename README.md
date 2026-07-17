@@ -56,7 +56,7 @@ my earlier web, python, and dsa projects:
 
 ## recent played vidya
 <a href="https://github.com/asitos/rasmalaaiPiVidyaSync">
-  <img src="https://rasmalaai-pi-vidya-sync-2lefo28rg-jhingalalaas-projects.vercel.app/api/card" alt="recently played vidya" />
+  <img src="https://rasmalaai-pi-vidya-sync.vercel.app/api/card?v=1" alt="recently played vidya" />
 </a>
 
   <h2>leetcode stats</h2>
