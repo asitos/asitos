@@ -70,8 +70,8 @@ my earlier web, python, and ongoing dsa and pentensting:
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sbtv9xqyc859dkq9j0b9apx1r&cover_image=true&theme=spotify-embed&show_offline=true&background_color=241f31&interchange=false&profanity=false&mode=dark&bar_color=813d9c&bar_color_cover=false" alt="spotify-github-profile" />
   </p>
 
-  <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sbtv9xqyc859dkq9j0b9apx1r&count=5">
-  </p>
+  <!-- <p align="center"> -->
+    <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=sbtv9xqyc859dkq9j0b9apx1r&count=5"> -->
+  <!-- </p> -->
 
 </div> 
