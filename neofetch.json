@@ -2,7 +2,7 @@
   "image": "https://raw.githubusercontent.com/asitos/asitos/main/cat.png",
   "coloredImage": true,
   "removeBackground": true,
-  "imageScale": 1.8,
+  "imageScale": 2,
   "backgroundColor": "#e1e2e7, #1a1b26",
   "separatorColor": "#9aa5ce, #414868",
   "sections": [
