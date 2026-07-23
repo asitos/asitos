@@ -21,6 +21,9 @@
 **[linux from scratch - secure](https://github.com/asitos/lfs-secure)**
 built a custom linux operating system entirely from source code, compiling the core toolchain and kernel manually. achieved the project's target security hardening scope, reaching a Lynis audit score of 90.
 
+**[haj](https://github.com/asitos/haj)**
+a blazing fast, memory-safe package manager for arch linux built in rust. safely wraps `pacman` with native alpm c-bindings for microsecond dag dependency traversal, concurrent pty stream parsing, and a beautiful minimalist syntax.
+
 **[rasmalaaiPi ecosystem](https://github.com/asitos/rasmalaaiPi)** 
 the central index for lightweight, zero-dependency c++ tools and embedded systems daemons running on a raspberry pi 3b+.
 - **[rasmalaaiPiPwner](https://github.com/asitos/rasmalaaiPiPwner):** - high performance c++ kernel-level ssh honeypot and real-time attack telemetry dashboard to check for malicious intruders.
