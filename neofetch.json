@@ -26,9 +26,9 @@
         "line": "#9aa5ce, #414868"
       },
       "fields": [
-        { "key": "OS", "value": "Arch Linux, Debian Trixie", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "OS", "value": "Arch, Gentoo", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
         { "key": "Editor", "value": "Neovim, VSCodium", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Languages", "value": "C++, Python, JS, Bash", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Languages", "value": "C++, Python, Rust, Bash", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
         { "key": "Focus", "value": "Systems Engineering, OS Security", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
