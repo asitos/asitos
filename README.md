@@ -38,7 +38,7 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 
 | domain | technologies |
 | :--- | :--- |
-| **low-level & systems** | c++, c, bash, linux kernel, posix api |
+| **low-level & systems** | c++, c, bash, rust, linux kernel |
 | **infrastructure** | arch, debian, gentoo, raspberry pi, docker, gcp |
 | **scripting & data** | python, opencv, pandas, mysql|
 | **tools** | neovim, git, gnu make, gcc |
@@ -64,7 +64,7 @@ my earlier web, python, and ongoing dsa and pentensting:
   <img src="https://rasmalaai-pi-vidya-sync.vercel.app/api/card?v=1" alt="recently played vidya" />
 </a>
 
-*(this matrix is dynamically rendered at the edge. an autonomous python daemon running on a bare-metal raspberry pi syncs my local database to github, and a serverless next.js api compiles the state into an svg on the fly. [view the monorepo architecture here](https://github.com/asitos/rasmalaaiPiVidyaSync)).*
+*(this card is dynamically rendered through an autonomous python daemon running on a raspberry pi which syncs my local spreadsheet to github, and a serverless next.js api compiles the state into an svg. [view the source code here](https://github.com/asitos/rasmalaaiPiVidyaSync)).*
 
   <h2>leetcode stats</h2>
   <img src="https://leetcard.jacoblin.cool/asitos?theme=catppuccinMocha&font=VT323" alt="LeetCode Stats" />
