@@ -50,6 +50,7 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 
 my earlier web, python, and ongoing dsa and pentensting:
 
+- **personal arch linux dotfiles:** [dotfiles](https://github.com/asitos/dotfiles) (hyprland only)
 - **over the wire wargames:** [overTheWire](https://github.com/asitos/overTheWire) (regularly solving wargames)
 - **dsa & problem solving:** [corporateMajdoori](https://github.com/asitos/corporateMajdoori) (daily algorithms and data structures progress)
 - **python experiments:** [handSkeleton](https://github.com/asitos/handSkeleton) (mediapipe/opencv), [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms), [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
