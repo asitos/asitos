@@ -24,7 +24,7 @@ built a custom linux operating system entirely from source code, compiling the c
 **[haj](https://github.com/asitos/haj)**
 a blazing fast, memory-safe package manager for arch linux built in rust. safely wraps `pacman` with native alpm c-bindings for microsecond dag dependency traversal, concurrent pty stream parsing, and a beautiful minimalist syntax.
 
-**[rasmalaaiPi ecosystem](https://github.com/asitos/rasmalaaiPi)** 
+**[rasmalaaiPi ecosystem](https://github.com/asitos/rasmalaaiPi)**
 the central index for lightweight, zero-dependency c++ tools and embedded systems daemons running on a raspberry pi 3b+.
 - **[rasmalaaiPiPwner](https://github.com/asitos/rasmalaaiPiPwner):** - high performance c++ kernel-level ssh honeypot and real-time attack telemetry dashboard to check for malicious intruders.
 - **[rasmalaaiPiVidyaSync](https://github.com/asitos/rasmalaaiPiVidyaSync):** serverless edge rendering pipeline and native linux daemon that syncs my google sheets game logs directly to my github readme, built with python, systemd, next.js, and vercel satori.
@@ -50,7 +50,7 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 
 my earlier web, python, and ongoing dsa and pentensting:
 
-- **personal arch linux dotfiles:** [dotfiles](https://github.com/asitos/dotfiles) (hyprland only)
+- **personal arch dotfiles:** [dotfiles](https://github.com/asitos/dotfiles) (hyprland only) and [neovim-dotfiles](https://github.com/asitos/neovim-dotfiles)
 - **over the wire wargames:** [overTheWire](https://github.com/asitos/overTheWire) (regularly solving wargames)
 - **dsa & problem solving:** [corporateMajdoori](https://github.com/asitos/corporateMajdoori) (daily algorithms and data structures progress)
 - **python experiments:** [handSkeleton](https://github.com/asitos/handSkeleton) (mediapipe/opencv), [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms), [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
@@ -79,4 +79,4 @@ my earlier web, python, and ongoing dsa and pentensting:
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sbtv9xqyc859dkq9j0b9apx1r&count=5">
   </p>
 <!-- end previous songs -->
-</div> 
+</div>
