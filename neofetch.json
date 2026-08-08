@@ -64,7 +64,7 @@
     },
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Stars", "value": "{{stars}}", "keyColor": "#9854f1, #bb9af7" } },
-      { "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Pull Requests", "value": "{{prs}}", "keyColor": "#9854f1, #bb9af7" } },
+      { "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "PRs", "value": "{{prs}}", "keyColor": "#9854f1, #bb9af7" } },
       "loc"
     ]
   }
