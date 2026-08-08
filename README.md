@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/asitos"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:4shut0shparashar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://leetcode.com/u/asitos/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://codeforces.com/profile/asitos"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces"></a>
 </div>
 
 ## core systems architecture (active)
