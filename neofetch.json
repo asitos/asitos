@@ -27,9 +27,9 @@
       },
       "fields": [
         { "key": "OS", "value": "Arch, Gentoo", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Editor", "value": "Neovim, VSCodium", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Editor", "value": "Neovim", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
         { "key": "Languages", "value": "C++, Python, Rust, Bash", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" },
-        { "key": "Focus", "value": "Systems Engineering, OS Security", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" }
+        { "key": "Focus", "value": "DevOps, OS Security", "keyColor": "#d20f39, #f7768e", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
     {
@@ -39,7 +39,7 @@
         "line": "#9aa5ce, #414868"
       },
       "fields": [
-        { "key": "Digital", "value": "Linux From Scratch, Video Games", "keyColor": "#c91a52, #f52a65", "valueColor": "#343b58, #a9b1d6" },
+        { "key": "Digital", "value": "Linux LARPing, Video Games", "keyColor": "#c91a52, #f52a65", "valueColor": "#343b58, #a9b1d6" },
         { "key": "Analog", "value": "Gym, Guitar", "keyColor": "#c91a52, #f52a65", "valueColor": "#343b58, #a9b1d6" }
       ]
     },
@@ -64,7 +64,7 @@
     },
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Stars", "value": "{{stars}}", "keyColor": "#9854f1, #bb9af7" } },
-      { "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Forks", "value": "{{forks}}", "keyColor": "#9854f1, #bb9af7" } },
+      { "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#9854f1, #bb9af7" }, "right": { "key": "Pull Requests", "value": "{{prs}}", "keyColor": "#9854f1, #bb9af7" } },
       "loc"
     ]
   }
