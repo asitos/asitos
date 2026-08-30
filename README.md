@@ -13,23 +13,18 @@
   <a href="https://leetcode.com/u/asitos/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </div>
 
-## core systems architecture (active)
-
-**[linux from scratch - secure](https://github.com/asitos/lfs-secure)**
-built a custom linux operating system entirely from source code, compiling the core toolchain and kernel manually. achieved the project's target security hardening scope, reaching a Lynis audit score of 90.
+## core projects
 
 **[haj](https://github.com/asitos/haj)**
 a blazing fast, memory-safe package manager for arch linux built in rust. safely wraps `pacman` with native alpm c-bindings for microsecond dag dependency traversal, concurrent pty stream parsing, and a beautiful minimalist syntax.
 
+**[linux from scratch - secure](https://github.com/asitos/lfs-secure)**
+built a custom linux operating system entirely from source code, compiling the core toolchain and kernel manually. achieved the project's target security hardening scope, reaching a Lynis audit score of 90.
+
 **[rasmalaaiPi ecosystem](https://github.com/asitos/rasmalaaiPi)**
 the central index for lightweight, zero-dependency c++ tools and embedded systems daemons running on a raspberry pi 3b+.
-- **[rasmalaaiPiPwner](https://github.com/asitos/rasmalaaiPiPwner):** - high performance c++ kernel-level ssh honeypot and real-time attack telemetry dashboard to check for malicious intruders.
-- **[rasmalaaiPiVidyaSync](https://github.com/asitos/rasmalaaiPiVidyaSync):** serverless edge rendering pipeline and native linux daemon that syncs my google sheets game logs directly to my github readme, built with python, systemd, next.js, and vercel satori.
-- **[rasmalaaiPiSSHSniper](https://github.com/asitos/rasmalaaiPiSSHSniper):** an intrusion prevention system (ips). intercepts ssh brute-force vectors in real-time using posix pipes and manipulates kernel iptables dynamically.
-- **[rasmalaaiPiTelemetry](https://github.com/asitos/rasmalaaiPiTelemetry):** a native system metric daemon that parses raw `/proc` and `/sys` internals.
-- **[rasmalaaiPiHole](https://github.com/asitos/rasmalaaiPiHole):** a containerized dns sinkhole infrastructure deployed via docker compose for network mitigation.
 
-## technical matrix
+## technical stuff i work with
 
 <div align="center">
 
@@ -42,12 +37,11 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 
 </div>
 
-
 ## archives & algorithms
 
 my earlier web, python, and ongoing dsa and pentensting:
 
-- **personal arch dotfiles:** [dotfiles](https://github.com/asitos/dotfiles) (hyprland only) and [neovim-dotfiles](https://github.com/asitos/neovim-dotfiles)
+- **personal arch dotfiles:** [dotfiles](https://github.com/asitos/dotfiles) (hyprland) and [neovim-dotfiles](https://github.com/asitos/neovim-dotfiles)
 - **over the wire wargames:** [overTheWire](https://github.com/asitos/overTheWire) (regularly solving wargames)
 - **dsa & problem solving:** [corporateMajdoori](https://github.com/asitos/corporateMajdoori) (daily algorithms and data structures progress)
 - **python experiments:** [handSkeleton](https://github.com/asitos/handSkeleton) (mediapipe/opencv), [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms), [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
