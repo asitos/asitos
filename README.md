@@ -30,10 +30,11 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 
 | domain | technologies |
 | :--- | :--- |
-| **low-level & systems** | c++, c, bash, rust, linux kernel |
+| **low-level & systems** | c++, c, bash, rust, linux, arduino |
 | **infrastructure** | arch, debian, gentoo, raspberry pi, docker, gcp |
-| **scripting & data** | python, opencv, pandas, mysql|
+| **scripting & data** | python, typescript, pandas, mysql, platformio |
 | **tools** | neovim, git, gnu make, gcc |
+
 
 </div>
 
@@ -42,6 +43,7 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 my earlier web, python, and ongoing dsa and pentensting:
 
 - **personal arch dotfiles:** [dotfiles](https://github.com/asitos/dotfiles) (hyprland) and [neovim-dotfiles](https://github.com/asitos/neovim-dotfiles)
+- **electronics/robotics:** [wifebox](https://github.com/asitos/wifebox)
 - **over the wire wargames:** [overTheWire](https://github.com/asitos/overTheWire) (regularly solving wargames)
 - **dsa & problem solving:** [corporateMajdoori](https://github.com/asitos/corporateMajdoori) (daily algorithms and data structures progress)
 - **python experiments:** [handSkeleton](https://github.com/asitos/handSkeleton) (mediapipe/opencv), [fitness-centre-dbms](https://github.com/asitos/fitness-centre-dbms), [covid-data-analysis](https://github.com/asitos/covid-data-analysis)
