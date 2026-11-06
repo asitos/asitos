@@ -63,15 +63,9 @@ my earlier web, python, and ongoing dsa and pentensting:
   <img src="https://leetcard.jacoblin.cool/asitos?theme=catppuccinMocha&font=VT323" alt="LeetCode Stats" />
 
   <h2>listening to</h2>
-
-  <p align="center">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sbtv9xqyc859dkq9j0b9apx1r&cover_image=true&theme=spotify-embed&show_offline=true&background_color=241f31&interchange=false&profanity=false&mode=dark&bar_color=813d9c&bar_color_cover=false" alt="spotify-github-profile" />
-  </p>
-<!-- previous songs -->
   <p align="center">
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=sbtv9xqyc859dkq9j0b9apx1r&theme=catppuccin&count=6&width=580&radius=0&logo=0&explicit=0&album=1)
+  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=sbtv9xqyc859dkq9j0b9apx1r&theme=catppuccin&count=6&width=580&radius=0&logo=0&explicit=0&album=1)
 
   </p>
-<!-- end previous songs -->
 </div>
