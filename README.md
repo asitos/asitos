@@ -69,7 +69,7 @@ my earlier web, python, and ongoing dsa and pentensting:
   </p>
 <!-- previous songs -->
   <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sbtv9xqyc859dkq9j0b9apx1r&count=5">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=sbtv9xqyc859dkq9j0b9apx1r&theme=catppuccin&count=6&width=580&radius=0&logo=0&explicit=0&album=1">
   </p>
 <!-- end previous songs -->
 </div>
