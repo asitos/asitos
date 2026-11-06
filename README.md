@@ -33,7 +33,7 @@ the central index for lightweight, zero-dependency c++ tools and embedded system
 | **low-level & systems** | c++, c, bash, rust, linux, arduino |
 | **infrastructure** | arch, debian, gentoo, raspberry pi, docker, gcp |
 | **scripting & data** | python, typescript, pandas, mysql, platformio |
-| **tools** | neovim, git, gnu make, gcc |
+| **tools** | neovim, git, ansible, gcc |
 
 
 </div>
